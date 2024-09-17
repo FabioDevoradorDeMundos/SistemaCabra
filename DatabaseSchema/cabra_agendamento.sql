@@ -40,7 +40,6 @@ CREATE TABLE `agendamento` (
 
 LOCK TABLES `agendamento` WRITE;
 /*!40000 ALTER TABLE `agendamento` DISABLE KEYS */;
-INSERT INTO `agendamento` VALUES ('18/09/2024','14:00h - 17:00h','4540912770','Quinta não vai dar, vou ir na quarta agora.',606),('27/09/2024','08:00h - 11:00h','8989','Sistema bom da silva.',608);
 /*!40000 ALTER TABLE `agendamento` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
