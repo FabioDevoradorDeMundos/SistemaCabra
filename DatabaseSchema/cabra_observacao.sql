@@ -37,7 +37,6 @@ CREATE TABLE `observacao` (
 
 LOCK TABLES `observacao` WRITE;
 /*!40000 ALTER TABLE `observacao` DISABLE KEYS */;
-INSERT INTO `observacao` VALUES (29304,'amo MySQL');
 /*!40000 ALTER TABLE `observacao` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
