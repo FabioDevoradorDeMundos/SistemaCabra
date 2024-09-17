@@ -43,7 +43,6 @@ CREATE TABLE `cadastro` (
 
 LOCK TABLES `cadastro` WRITE;
 /*!40000 ALTER TABLE `cadastro` DISABLE KEYS */;
-INSERT INTO `cadastro` VALUES ('4540912770','Fabio','4540912770@estudante.sed.sc.gov.br','2-1','Manhã','gatissimo','42069','/imgs/imgsUsuario/6.png'),('454101038',' beatriz carvalho','454101038@estudante.sed.sc.gov.br',' 202','Manhã','brcbibicacarvalho@gmail.com',' caxotaChampion0411','/imgs/imgsUsuario/7.png'),('69429091124',' Bluezao','69429091124@estudante.sed.sc.gov.br',' 2-1','Manhã','bluezaoOfc',' bbl3','null'),('8989',' fabio','8989@estudante.sed.sc.gov.br',' Segundo Um','Manhã','1',' 1','/imgs/imgsUsuario/8.png'),('99',' Feliperine wolverino','99@estudante.sed.sc.gov.br',' 19','integral','felipson',' 123','/imgs/imgsUsuario/5.png'),('99999','fabo','@gmail.com@yahoo.com','3','vesp','123','123','/imgs/imgsUsuario/9.png');
 /*!40000 ALTER TABLE `cadastro` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
